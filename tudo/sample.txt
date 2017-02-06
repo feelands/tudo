@@ -1,0 +1,4 @@
+how to using git1
+메디치교육센터
+add 복제 저장소 파일
+add 충돌 만들기
